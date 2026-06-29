@@ -34,6 +34,12 @@ This project detects whether a website URL is **Phishing** or **Legitimate** usi
 - Live URL Prediction
 - Deep Learning Models
 - API Integration
+  
+  ## 🚀 Live Demo
+🔗 https://phishing-website-detection-tkszmeb9nxubqn5nonnjud.streamlit.app/
+
+## 📂 GitHub Repository
+🔗 https://github.com/techportfolio3737-eng/Phishing-Website-Detection
 
 ## 👨‍💻 Author
 Atharva Mhetre 
